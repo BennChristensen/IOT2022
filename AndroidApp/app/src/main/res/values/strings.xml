@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Varmestyring</string>
+    <string name="home_label">Søndervig 30</string>
+    <string name="current_temperature">Nuværende temperatur</string>
+    <string name="desired_temperature">Ønsket temperatur</string>
+    <string name="toggle_heater">SLUKKET/TÆNDT</string>
+    <string name="start_temperature">21\u00b0</string>
+</resources>
